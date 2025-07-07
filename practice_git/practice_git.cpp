@@ -3,9 +3,12 @@
 
 #include <iostream>
 
+void run1();
+
 int main()
 {
     std::cout << "Hello World!\n";
+    run1();
 
     return 0;
 }

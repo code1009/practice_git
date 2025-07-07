@@ -4,11 +4,13 @@
 #include <iostream>
 
 void run1();
+void run2();
 
 int main()
 {
     std::cout << "Hello World!\n";
     run1();
+    run2();
 
     return 0;
 }

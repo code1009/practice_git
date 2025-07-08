@@ -4,15 +4,13 @@
 #include <iostream>
 
 void run1();
-void run4();
-void run5();
+void run2();
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "run2 추가\n";
     run1();
-    run4();
-    run5();
+    run2();
 
     return 0;
 }

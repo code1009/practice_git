@@ -4,11 +4,13 @@
 #include <iostream>
 
 void run1();
+void run3();
 
 int main()
 {
-    std::cout << "재시작-run2삭제-run3삭제\n";
+    std::cout << "시작-run3추가\n";
     run1();
+    run3();
 
     return 0;
 }

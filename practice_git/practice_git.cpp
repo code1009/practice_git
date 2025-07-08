@@ -7,6 +7,7 @@ void run1();
 void run2();
 void run3();
 void run4();
+void run5();
 
 int main()
 {
@@ -15,6 +16,7 @@ int main()
     run2();
     run3();
     run4();
+    run5();
 
     return 0;
 }

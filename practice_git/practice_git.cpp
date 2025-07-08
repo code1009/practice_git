@@ -5,14 +5,12 @@
 
 void run1();
 void run2();
-void run3();
 
 int main()
 {
-    std::cout << "재시작\n";
+    std::cout << "재시작-run3삭제\n";
     run1();
     run2();
-    run3();
 
     return 0;
 }

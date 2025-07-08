@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 
-void run2()
+void run3()
 {
     std::cout << "run3 입니다.\n";
 }

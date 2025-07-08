@@ -4,12 +4,14 @@
 #include <iostream>
 
 void run1();
+void run2();
 void run3();
 
 int main()
 {
-    std::cout << "시작\n";
+    std::cout << "시작-run2추가\n";
     run1();
+    run2();
     run3();
 
     return 0;

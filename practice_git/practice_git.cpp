@@ -4,15 +4,11 @@
 #include <iostream>
 
 void run1();
-void run4();
-void run5();
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "run4, run5 삭제\n";
     run1();
-    run4();
-    run5();
 
     return 0;
 }

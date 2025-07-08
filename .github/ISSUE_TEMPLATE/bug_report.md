@@ -1,6 +1,6 @@
 ﻿---
-name: 버그 리포트
-about: 개선을 위해 버그를 보고해 주세요
+name: Bug report
+about: Bug report template for this project
 title: ''
 labels: ''
 assignees: ''

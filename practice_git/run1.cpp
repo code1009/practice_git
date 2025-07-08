@@ -3,6 +3,4 @@
 void run1()
 {
     std::cout << "run1 입니다.\n";
-    std::cout << "run1 입니다.\n";
-    std::cout << "run1 입니다.\n";
 }

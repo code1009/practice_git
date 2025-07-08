@@ -1,8 +1,6 @@
 ﻿#include <iostream>
 
-void run1()
+void run2()
 {
-    std::cout << "run2 수정 입니다.\n";
-    std::cout << "run2 수정 입니다.\n";
-    std::cout << "run2 수정 입니다.\n";
+    std::cout << "run2 입니다.\n";
 }

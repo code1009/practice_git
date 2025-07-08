@@ -125,7 +125,6 @@
   <ItemGroup>
     <ClCompile Include="practice_git.cpp" />
     <ClCompile Include="run1.cpp" />
-    <ClCompile Include="run3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

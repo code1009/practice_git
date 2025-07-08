@@ -2,5 +2,5 @@
 
 void run2()
 {
-    std::cout << "run2 입니다.\n";
+    std::cout << "run2 수정입니다.\n";
 }

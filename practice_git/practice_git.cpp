@@ -8,7 +8,7 @@ void run2();
 
 int main()
 {
-    std::cout << "run4, run5 삭제, run2추가\n";
+    std::cout << "run4, run5 삭제, run2추가, run3추가\n";
     run1();
     run2();
 

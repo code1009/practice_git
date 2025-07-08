@@ -4,11 +4,13 @@
 #include <iostream>
 
 void run1();
+void run2();
 
 int main()
 {
-    std::cout << "run4, run5 삭제\n";
+    std::cout << "run4, run5 삭제, run2추가\n";
     run1();
+    run2();
 
     return 0;
 }
